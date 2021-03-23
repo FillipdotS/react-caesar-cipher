@@ -1,0 +1,13 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.app {
+	margin: 1em;
+	padding: 0.7em;
+	background-color: rgb(226, 248, 255);
+}
+
+code {
+	color: #3336d6;
+}
